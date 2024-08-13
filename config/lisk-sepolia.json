@@ -1,0 +1,7 @@
+{
+  "network": "lisk-sepolia",
+  "address": "0xC0562712acC649a99120B0b38b1483414515ee95",
+  "startBlock": 9000000,
+  "file": "FarmCity20",
+  "tokenEvent": "Transfer(address,address,uint256)"
+}
